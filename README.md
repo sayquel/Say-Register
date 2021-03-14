@@ -4,7 +4,7 @@ Merhaba Arkadaşlar Neredeyse Bütün Kodların Benim Olduğu Bir Altyapıyı Ba
 
 Botumun Kayıt Kısmı 
 <div>
-<img src = "https://cdn.discordapp.com/attachments/815241939913539604/820409671152173116/hoppa.png" height = "150px" />
+<img src = "https://cdn.discordapp.com/attachments/815241939913539604/820409671152173116/hoppa.png" height = "500px" />
 </div>
 
 <div>
