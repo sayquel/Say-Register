@@ -1,0 +1,45 @@
+{
+"roller": {
+"teyitcirol": "REGİSTERCİ",
+"botcommand": "BOTKOMUT",
+"erkekRol" : ["ERKEKROL1","ERKEKROL2"],
+"kadınRol" : ["KADINROL1","KADINROL2"],
+"kayıtsızrol": "KAYITSIZ",
+"karantinarol": "ŞÜPHELİ",
+"cezalırol": "CEZALI",
+"booster": "DESTEKÇİ",
+"ekiprol": "FAMİLY",
+"viprol" : "VİPROL",
+"katıldı" : "KATILDI"
+},
+
+"kanallar": {
+"taglog": "TAGLOG",
+"genelchat": "CHAT",
+"hgkanal" : "HGKANAL",
+"guildid" : "SUNUCU",
+"invite" : "İNVİTE",
+"karantinahg" : "KARANTİNAHG",
+"toplantı" : "TOPLANTISES"
+},
+
+"durumlar": {
+    "dogru": "TİK",
+    "yanlis": "ÇARPI"
+},
+
+"taglar": {
+    "servertag": "Disquel",
+    "untag": "▪"
+}, 
+
+"renk": {
+    "disquelkırmızı": "#fff619",
+    "disquelmor": "#340036",
+    "disquelblue": "#030036",
+    "disquelgold": "#fff619",
+    "disquelvip": "#fff619",
+    "disquelmavi": "#fff619",
+    "kirmizi" : "#fff619"
+} 
+}

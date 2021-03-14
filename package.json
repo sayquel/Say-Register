@@ -1,0 +1,22 @@
+{
+  "name": "say-supervizor",
+  "version": "0.0.1",
+  "description": "Merhaba Arkadaşlar Ben Disquel Sizlere Bütn Kodların Benim Olmasada Çoğunu Ben Hazırladığım bi Kayıt Botu Gösteriyorum bu Kayıt Botunda Moderasyon Komutları da Dahildir. İzinsiz Kullananlara Adli İşlemlere Başvurulacaktır İyi Kullanımlar Dilerim",
+  "main": "disquel.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^7.1.3",
+    "snekfetch": "^4.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
