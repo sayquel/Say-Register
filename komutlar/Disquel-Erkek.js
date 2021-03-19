@@ -33,7 +33,7 @@ if(disquel.roles.highest.position >= message.member.roles.highest.position) retu
 disqueldb.add(`yetkili.${message.author.id}.erkek`, 1)
 disqueldb.add(`yetkili.${message.author.id}.toplam`, 1)
 let kayıtlar = disqueldb.fetch(`yetkili.${message.author.id}.toplam`)
-const disquelİsim = `${member.user.username.includes(settings.taglar.servertag) ? settings.taglar.servertag : settings.taglar.untag} ${Name} | ${Age}`;
+const disquelİsim = `${disquel.user.username.includes(settings.taglar.servertag) ? settings.taglar.servertag : settings.taglar.untag} ${Name} | ${Age}`;
 
 
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬Hatalar Bitti Ve Başarılı Mesajı Atıyoruz▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬//
